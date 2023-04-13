@@ -1,0 +1,40 @@
+.Contact {
+	color: #222222;
+	background-color: #fcfaf5;
+	max-width: 75%;
+	margin: 3em auto;
+	display: flex;
+	flex-direction: column;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 45px;
+}
+input[name="name"] {
+	font-family: 'Open Sans', sans-serif;
+	padding: .5em;
+	max-width: 200px;
+}
+input[name="email"] {
+	font-family: 'Open Sans', sans-serif;
+	padding: .5em;
+	max-width: 200px;
+}
+textarea[name="message"] {
+	font-family: 'Open Sans', sans-serif;
+	min-width: 300px;
+	min-height: 200px;
+}
+.inputs {
+	padding: 2rem;
+}
+.contact-button {
+	color: #fcfaf5;
+	background-color: #ff6dcd;
+	text-align: center;
+	border: none;
+	height: 50px;
+	width: 100px;
+	padding: 12px 8px;
+	margin: 2rem;
+	border-radius: 40px;
+	font-weight: bold;
+}
