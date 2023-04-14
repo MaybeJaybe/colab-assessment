@@ -66,7 +66,9 @@
 	}
 	
 	.projects-img {
-		max-width: 320px;
-		position: relative;
+		max-width: 260px;
+		/* position: relative; */
+		left: 0;
+		margin: auto;
 	}
 }

@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import InputField from './InputField';
 import TextareaField from './TextareaField';
 import emailjs from '@emailjs/browser';
+import Explanation from './Explanation';
 import './Contact.css';
 
 function Contact() {
@@ -63,6 +64,7 @@ function Contact() {
 				</div>
 				<button type="submit" className="contact-button">Send</button>
 			</form>
+			<Explanation />
 		</div>
 	);
 }

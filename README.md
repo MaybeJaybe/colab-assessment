@@ -1,5 +1,10 @@
 # CO.LAB ASSESSMENT
 
+## Site is live at [Vercel](colab-assessment-maybejaybe.vercel.app)
+
+TODOs
+- make mobile dropdown automatically close when you click something, its not super responsive. 
+
 ### **Project Description**
 
 Create and deploy a simple web application that follows the following requirements:

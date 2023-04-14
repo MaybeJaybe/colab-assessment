@@ -11,12 +11,12 @@
 input[name="name"] {
 	font-family: 'Open Sans', sans-serif;
 	padding: .5em;
-	max-width: 200px;
+	min-width: 260px;
 }
 input[name="email"] {
 	font-family: 'Open Sans', sans-serif;
 	padding: .5em;
-	max-width: 200px;
+	min-width: 260px;
 }
 textarea[name="message"] {
 	font-family: 'Open Sans', sans-serif;

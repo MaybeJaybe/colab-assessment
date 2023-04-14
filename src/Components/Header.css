@@ -45,6 +45,7 @@
 
 .nav-menu ul {
 	display: flex;
+	z-index: 10;
 	padding: 0;
 }
 
