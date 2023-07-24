@@ -13,14 +13,14 @@ function Projects() {
 						<p>This site is made with HTML and CSS. This is a project I have put a lot of work into because it was commissioned by my brother for his farmhouse and business.</p>
 					</div>
 				</li>
-				<li>
+				{/* <li>
 					<img src="images/barter-landing.png" className="projects-img"></img>
 					<div className="project-description">
 						<a href="https://barter-me.onrender.com/" target="_blank" rel="noopener noreferrer">Simple Shop</a>
 						<p>This shop was made in Python. My favourite part of this project was validating specific users and only allowing that user to edit the shop and items they created.</p>
 						<p>Note: the render site can take some time to launch.</p>
 					</div>
-				</li>
+				</li> */}
 				<li>
 					<img src="images/raffle-landing.png" className="projects-img"></img>
 					<div className="project-description">

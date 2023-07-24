@@ -4,6 +4,7 @@
 
 TODOs
 - make mobile dropdown automatically close when you click something, its not super responsive. 
+<!--possibly this could work? https://stackoverflow.com/questions/48656630/reactstrap-close-nav-when-link-clicked -->
 
 ### **Project Description**
 
